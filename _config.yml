@@ -8,8 +8,8 @@ permalink:        pretty
 title:            DSSG2024 Crowd Flow Models Fairness Evaluation
 tagline:          ''
 description:      'A 2024 Data Science for Social Good summer fellowship project at the University of Washington' 
-url:              "https://dssg24-cf-fairness.github.io/"
-# baseurl:          "/website"
+url:              "https://dssg24-cf-fairness.github.io"
+baseurl:          "/website"
 
 
 paginate:         5
