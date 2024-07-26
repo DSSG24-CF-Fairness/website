@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method 1
+title: Our Data
 ---
 
 
