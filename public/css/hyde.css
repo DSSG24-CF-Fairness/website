@@ -140,7 +140,7 @@ a.sidebar-nav-item:hover{
 
 .dropdown-container {
   display: none;
-  background-color: #262626;
+  background-color: none;
   padding-left: 1rem;
 }
 .fa-caret-down {
