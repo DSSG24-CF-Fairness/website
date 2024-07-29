@@ -17,7 +17,7 @@ Apoorva is a Master in Data Science student at the University of Washington. Her
 
 #### Jiaqi He (Kiki)
 
-> insert photo
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kiki.jpg">
 
 Jiaqi He (Kiki) is a Master's in Information Management student at the University of Washington, driven by a passion for leveraging data science and machine learning to tackle contemporary challenges and enhance accessible technologies. Fascinated by the power of data, she aims to contribute to society through her expertise. Thrilled to join this program, she sees it as a valuable opportunity to address real-world social issues and enhance her skills in machine learning, data analysis, and programming while collaborating with a diverse team. Having benefited from open-source projects, she looks forward to contributing to the community, providing valuable tools and insights that promote fairness and equity in generative crowd-flow models and beyond.
 
