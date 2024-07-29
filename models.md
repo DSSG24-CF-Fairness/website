@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Models
+title: Models
 ---
 
 
