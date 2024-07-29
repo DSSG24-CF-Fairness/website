@@ -62,7 +62,7 @@ for (i = 0; i < dropdown.length; i++) {
       {% endfor %}
       {% endcomment %}
 
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/github' | prepend: site.baseurl }}">Github</a>
       <span class="sidebar-nav-item">v{{ site.version }}</span>
     </nav>
 
