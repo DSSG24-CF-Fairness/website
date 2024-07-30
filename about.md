@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About
-
 Team Photo
 
 ### The Fellows
