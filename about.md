@@ -44,7 +44,7 @@ As of September 2019, Afra serves as an Assistant Professor of Computer Software
 
 #### Ekin Ugurel
 
-> insert photo
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ekin.jpg">
 
 Ekin is a PhD student at the University of Washington in Seattle, co-advised by Professor Cynthia Chen (CEE) and Professor Shuai Huang (ISE). Supported by the College of Engineering Dean’s Fellowship, his research focuses on non-parametric, data-driven modeling of human mobility data and the application of machine learning frameworks for this purpose. Originally from Istanbul, Turkey, Ekin attended high school in Texas and earned his engineering degree from the University of Texas at Austin. In his free time, he enjoys team sports and exploring the natural beauty of Washington. Introduced to DSSG by Professor Afra Mashhadi, Ekin is eager to contribute to the field of mobility analytics and explore its implications in related domains.
 
