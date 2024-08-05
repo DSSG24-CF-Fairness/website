@@ -16,8 +16,8 @@
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">Motivation</a>
       
       <!-- An example of a section with drop-down menu -->
-      <a href="{{ '/methods' | prepend: site.baseurl }}" class="sidebar-nav-item dropdown-link">
-        <button class="dropdown-btn">Methods
+      <a href="{{ '/framework' | prepend: site.baseurl }}" class="dropdown-link">
+        <button class="dropdown-btn">Framework
             <i class="fa fa-caret-down"></i>
         </button>
       </a> 
@@ -72,24 +72,6 @@ for (i = 0; i < dropdown.length; i++) {
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
-
-   <script>
-  document.addEventListener('DOMContentLoaded', function() {
-      var dropdownBtn = document.querySelector('.dropdown-btn');
-      var dropdownContainer = document.querySelector('.dropdown-container');
-
-      dropdownBtn.addEventListener('click', function(event) {
-          event.preventDefault(); // Prevent default button behavior
-          dropdownContainer.classList.toggle('show');
-      });
-
-      document.addEventListener('click', function(event) {
-          if (!event.target.closest('.dropdown-container') && !event.target.closest('.dropdown-btn')) {
-              dropdownContainer.classList.remove('show');
-          }
-      });
-  });
-  </script>
 </div>
 
 
