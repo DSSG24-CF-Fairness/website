@@ -72,24 +72,23 @@ for (i = 0; i < dropdown.length; i++) {
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
+</div>
 
-    <script>
+<script>
   document.addEventListener('DOMContentLoaded', function() {
       var dropdownLink = document.querySelector('.dropdown-link');
       var dropdownBtn = document.querySelector('.dropdown-btn');
       var dropdownContainer = document.querySelector('.dropdown-container');
   
       dropdownBtn.addEventListener('click', function(event) {
-          event.preventDefault(); // Prevent the default link behavior when the button is clicked
+          event.stopPropagation(); // Stop event propagation to allow link behavior
           dropdownContainer.classList.toggle('show');
       });
   
       dropdownLink.addEventListener('click', function(event) {
-          if (!event.target.closest('.dropdown-btn')) {
-              window.location.href = dropdownLink.href;
+          if (event.target.closest('.dropdown-btn')) {
+              event.preventDefault(); // Prevent navigation when button is clicked
           }
       });
   });
   </script>
-
-</div>
