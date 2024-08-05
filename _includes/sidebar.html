@@ -16,54 +16,22 @@
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/motivation' | prepend: site.baseurl }}">Motivation</a>
       
       <!-- An example of a section with drop-down menu -->
-      <a href="{{ '/framework' | prepend: site.baseurl }}" class="dropdown-link">
-        <button class="dropdown-btn">Framework
+      <div class="dropdown">
+        <a href="{{ '/framework' | prepend: site.baseurl }}" class="dropdown-link">
+          <button class="dropdown-btn">
+            Framework
             <i class="fa fa-caret-down"></i>
-        </button>
-      </a> 
-      <div class="dropdown-container">
+          </button>
+        </a>
+        <div class="dropdown-container">
           <a href="{{ '/our data' | prepend: site.baseurl }}">Our Data</a><br/>
           <a href="{{ '/models' | prepend: site.baseurl }}">Models</a><br/>
           <a href="{{ '/evaluation' | prepend: site.baseurl }}">Evaluation</a>
+        </div>
       </div>
       
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/results' | prepend: site.baseurl }}">Results</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/about' | prepend: site.baseurl }}">About</a>
-
-      <script>
-/* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
-var dropdown = document.getElementsByClassName("dropdown-btn");
-var i;
-
-for (i = 0; i < dropdown.length; i++) {
-  dropdown[i].addEventListener("click", function() {
-  this.classList.toggle("active");
-  var dropdownContent = this.nextElementSibling;
-  if (dropdownContent.style.display === "block") {
-  dropdownContent.style.display = "none";
-  } else {
-  dropdownContent.style.display = "block";
-  }
-  });
-}
-</script>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% comment %}
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      {% endcomment %}
-
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="https://github.com/DSSG24-CF-Fairness/crowdflow-fairness" target="_blank">Github</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/related work' | prepend: site.baseurl }}">Related Work</a>
 
@@ -74,4 +42,32 @@ for (i = 0; i < dropdown.length; i++) {
   </div>
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var dropdownBtn = document.querySelector('.dropdown-btn');
+    var dropdownContainer = document.querySelector('.dropdown-container');
+
+    dropdownBtn.addEventListener('click', function(event) {
+        // Toggle the dropdown visibility
+        dropdownContainer.classList.toggle('show');
+        
+        // Ensure the navigation happens after the dropdown is shown
+        setTimeout(function() {
+            // Check if the dropdown is visible; if so, allow navigation
+            if (dropdownContainer.classList.contains('show')) {
+                window.location.href = dropdownBtn.parentElement.href;
+            }
+        }, 100); // Delay to ensure dropdown visibility
+    });
+
+    // Close dropdown if clicking outside
+    document.addEventListener('click', function(event) {
+        if (!event.target.closest('.dropdown')) {
+            dropdownContainer.classList.remove('show');
+        }
+    });
+});
+</script>
+
+     
 
