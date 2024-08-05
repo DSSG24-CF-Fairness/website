@@ -143,6 +143,11 @@ a.sidebar-nav-item:hover{
   background-color: #36236a;
   padding-left: 1rem;
 }
+
+.dropdown-container.show {
+    display: block;
+}
+
 .fa-caret-down {
   float: right;
   padding-right: 0.5rem;
