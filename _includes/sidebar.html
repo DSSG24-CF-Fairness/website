@@ -47,6 +47,31 @@ for (i = 0; i < dropdown.length; i++) {
   }
   });
 }
+function normalize_url(url) {
+    return decodeURI(new URL(url).pathname).toLowerCase().replace(/\/$/, "");
+}
+function expand_active_dropdown_menu() {
+    let cur_path = normalize_url(window.location.href);
+    for (let button of document.getElementsByClassName("dropdown-btn")) {
+        let dropdown_list = button.nextElementSibling;
+        let all_list_links = [];
+        let match = false;
+        all_list_links = Array.prototype.concat.apply(all_list_links, button.getElementsByTagName("a"));
+        all_list_links = Array.prototype.concat.apply(all_list_links, dropdown_list.getElementsByTagName("a"));
+        for (let link of all_list_links) {
+            let link_path = normalize_url(link);
+            if (link_path === cur_path) {
+                match = true;
+                break
+            }
+        }
+        if (match === true) {
+          button.classList.toggle("active");
+          dropdown_list.style.display = "block";
+        }
+    }
+}
+expand_active_dropdown_menu();
 </script>
 
       {% comment %}
