@@ -38,9 +38,9 @@ Sakshi Vinayak Chavan, a graduate student at the University of Wisconsin-Madison
 
 #### Afra Mashhadi
 
-<div style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 300px; height: 300px;">
-</div>
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 400px; height: 350px;">
+
 
 As of September 2019, Afra serves as an Assistant Professor of Computer Software and Systems at the University of Washington, Bothell. She is a researcher, educator, and advocate for ethics and diversity in computing. Afra is also affiliated with the RAISE center, a newly funded initiative focused on Responsible AI Systems. In addition, she holds an adjunct assistant professorship at the Information School, University of Washington, Seattle. Afra’s upcoming talks and courses on these topics are highly anticipated.
 
@@ -49,7 +49,7 @@ As of September 2019, Afra serves as an Assistant Professor of Computer Software
 #### Ekin Ugurel
 
 <div style="text-align: center;">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ekin.jpg" style="width: 300px; height: 300px;">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ekin.jpg" style="width: 300px; height: 350px;">
 </div>
 
 Ekin is a PhD student at the University of Washington in Seattle, co-advised by Professor Cynthia Chen (CEE) and Professor Shuai Huang (ISE). Supported by the College of Engineering Dean’s Fellowship, his research focuses on non-parametric, data-driven modeling of human mobility data and the application of machine learning frameworks for this purpose. Originally from Istanbul, Turkey, Ekin attended high school in Texas and earned his engineering degree from the University of Texas at Austin. In his free time, he enjoys team sports and exploring the natural beauty of Washington. Introduced to DSSG by Professor Afra Mashhadi, Ekin is eager to contribute to the field of mobility analytics and explore its implications in related domains.
