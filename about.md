@@ -23,7 +23,7 @@ Jiaqi He (Kiki) is a Master's in Information Management student at the Universit
 
 #### Manurag Khullar
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kiki.jpg" style="width: 300px; height: 300px;">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/dpmanu.jpg" style="width: 300px; height: 300px;">
 
 Manurag Khullar is a Scientific Computing graduate student at the University of Pennsylvania, focused on developing ML models at the intersection of science and mathematics to create significant social impact. With a diverse background in engineering and liberal arts, he combines a solid quantitative foundation with an understanding of ethical complexities. Outside of his studies, Manurag enjoys blending Indian cuisine with other culinary traditions, exploring museums worldwide, and spending summers trekking and participating in water sports in the Himalayas. He also finds reading about astronomy humbling, appreciating the vastness of the universe and the limits of our knowledge.
 
@@ -38,7 +38,7 @@ Sakshi Vinayak Chavan, a graduate student at the University of Wisconsin-Madison
 #### Afra Mashhadi
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 300px; height: 300px;">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra1.jpg">
 
 
 As of September 2019, Afra serves as an Assistant Professor of Computer Software and Systems at the University of Washington, Bothell. She is a researcher, educator, and advocate for ethics and diversity in computing. Afra is also affiliated with the RAISE center, a newly funded initiative focused on Responsible AI Systems. In addition, she holds an adjunct assistant professorship at the Information School, University of Washington, Seattle. Afra’s upcoming talks and courses on these topics are highly anticipated.
