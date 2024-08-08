@@ -13,7 +13,7 @@ Team Photo
 
 Apoorva is a Master in Data Science student at the University of Washington. Her research interests include evaluation of generative models, with a focus on computer vision. She is especially interested in investigating social biases in new-age generative models and using machine learning techniques to create safeguards against them. This interest prompted her to join the DSSG fellowship, where she is working on measuring fairness and equity in crowd-flow generation models. Prior to this, she worked as a Management Consultant with McKinsey & Co., leading digital transformation and strategy projects across Life Sciences, Healthcare, and Agriculture. She has a bachelor’s degree in Economics with a minor in Literature from the Indian Institute of Technology, Kanpur. 
 
-#### Jiaqi He (Kiki)
+#### Jiaqi(Kiki) He 
 
 <div style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kiki.jpg" style="width: 300px; height: 300px;">
