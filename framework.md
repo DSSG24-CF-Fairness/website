@@ -3,6 +3,11 @@ layout: page
 title: Framework
 ---
 
+(Draft)
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/framework.png">
+
 **Data**
 
 What data sets are you using?
