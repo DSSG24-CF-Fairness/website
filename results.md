@@ -3,6 +3,10 @@ layout: page
 title: Results
 ---
 
+(Draft)
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/heatmap.png">
+
 **Findings**
 
 What were the outcomes of your analyses?
