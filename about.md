@@ -38,7 +38,9 @@ Sakshi Vinayak Chavan, a graduate student at the University of Wisconsin-Madison
 
 #### Afra Mashhadi
 
-> insert photo
+<div style="text-align: center;">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 300px; height: 300px;">
+</div>
 
 As of September 2019, Afra serves as an Assistant Professor of Computer Software and Systems at the University of Washington, Bothell. She is a researcher, educator, and advocate for ethics and diversity in computing. Afra is also affiliated with the RAISE center, a newly funded initiative focused on Responsible AI Systems. In addition, she holds an adjunct assistant professorship at the Information School, University of Washington, Seattle. Afra’s upcoming talks and courses on these topics are highly anticipated.
 
