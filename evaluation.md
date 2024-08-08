@@ -3,7 +3,6 @@ layout: page
 title: Evaluation
 ---
 
-Evaluation
 A crowd flow generative model can be seen as both a classification as well as a regression problem. 
 
 **Classification:**
