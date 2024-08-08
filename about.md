@@ -15,16 +15,15 @@ Apoorva is a Master in Data Science student at the University of Washington. Her
 
 #### Jiaqi(Kiki) He 
 
-<div style="text-align: center;">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kiki.jpg" style="width: 300px; height: 300px;">
-</div>
+
 
 Jiaqi He (Kiki) is a Master's in Information Management student at the University of Washington, driven by a passion for leveraging data science and machine learning to tackle contemporary challenges and enhance accessible technologies. Fascinated by the power of data, she aims to contribute to society through her expertise. Thrilled to join this program, she sees it as a valuable opportunity to address real-world social issues and enhance her skills in machine learning, data analysis, and programming while collaborating with a diverse team. Having benefited from open-source projects, she looks forward to contributing to the community, providing valuable tools and insights that promote fairness and equity in generative crowd-flow models and beyond.
 
 
 #### Manurag Khullar
 
-> insert photo
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kiki.jpg" style="width: 300px; height: 300px;">
 
 Manurag Khullar is a Scientific Computing graduate student at the University of Pennsylvania, focused on developing ML models at the intersection of science and mathematics to create significant social impact. With a diverse background in engineering and liberal arts, he combines a solid quantitative foundation with an understanding of ethical complexities. Outside of his studies, Manurag enjoys blending Indian cuisine with other culinary traditions, exploring museums worldwide, and spending summers trekking and participating in water sports in the Himalayas. He also finds reading about astronomy humbling, appreciating the vastness of the universe and the limits of our knowledge.
 
@@ -39,7 +38,7 @@ Sakshi Vinayak Chavan, a graduate student at the University of Wisconsin-Madison
 #### Afra Mashhadi
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 400px; height: 350px;">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/afra.jpg" style="width: 300px; height: 300px;">
 
 
 As of September 2019, Afra serves as an Assistant Professor of Computer Software and Systems at the University of Washington, Bothell. She is a researcher, educator, and advocate for ethics and diversity in computing. Afra is also affiliated with the RAISE center, a newly funded initiative focused on Responsible AI Systems. In addition, she holds an adjunct assistant professorship at the Information School, University of Washington, Seattle. Afra’s upcoming talks and courses on these topics are highly anticipated.
@@ -48,9 +47,9 @@ As of September 2019, Afra serves as an Assistant Professor of Computer Software
 
 #### Ekin Ugurel
 
-<div style="text-align: center;">
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/ekin.jpg" style="width: 300px; height: 350px;">
-</div>
+
 
 Ekin is a PhD student at the University of Washington in Seattle, co-advised by Professor Cynthia Chen (CEE) and Professor Shuai Huang (ISE). Supported by the College of Engineering Dean’s Fellowship, his research focuses on non-parametric, data-driven modeling of human mobility data and the application of machine learning frameworks for this purpose. Originally from Istanbul, Turkey, Ekin attended high school in Texas and earned his engineering degree from the University of Texas at Austin. In his free time, he enjoys team sports and exploring the natural beauty of Washington. Introduced to DSSG by Professor Afra Mashhadi, Ekin is eager to contribute to the field of mobility analytics and explore its implications in related domains.
 
