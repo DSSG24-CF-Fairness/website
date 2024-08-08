@@ -123,6 +123,6 @@ Our ethical considerations primarily revolve around defining fairness and equity
 
 Below is an example of some of the fairness and equity definitions we explored and how they translate into crow flow case.
 
-![ethics_table](https://hackmd.io/_uploads/rJo1ou-90.png)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/ethics_table.png">
 
 
