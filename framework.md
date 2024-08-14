@@ -3,4 +3,4 @@ layout: page
 title: Framework
 ---
 
-page in progress...
+This page is in progress.
