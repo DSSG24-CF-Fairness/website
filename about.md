@@ -2,8 +2,9 @@
 layout: page
 title: About
 ---
+### Crowd Flow Team
 
-Team Photo
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/DSCF2472.jpg"
 
 ### The Fellows
 
