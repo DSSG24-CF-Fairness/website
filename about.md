@@ -4,7 +4,7 @@ title: About
 ---
 ### Crowd Flow Team
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/DSCF2472.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/DSCF2472.jpg">
 
 ### The Fellows
 
