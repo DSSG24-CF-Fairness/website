@@ -9,7 +9,6 @@ Team Photo
 
 #### Apoorva Sheera
 
-> insert photo
 
 Apoorva is a Master in Data Science student at the University of Washington. Her research interests include evaluation of generative models, with a focus on computer vision. She is especially interested in investigating social biases in new-age generative models and using machine learning techniques to create safeguards against them. This interest prompted her to join the DSSG fellowship, where she is working on measuring fairness and equity in crowd-flow generation models. Prior to this, she worked as a Management Consultant with McKinsey & Co., leading digital transformation and strategy projects across Life Sciences, Healthcare, and Agriculture. She has a bachelor’s degree in Economics with a minor in Literature from the Indian Institute of Technology, Kanpur. 
 
@@ -29,7 +28,7 @@ Manurag Khullar is a Scientific Computing graduate student at the University of 
 
 #### Sakshi Chavan
 
-> insert photo
+
 
 Sakshi Vinayak Chavan, a graduate student at the University of Wisconsin-Madison, is focused on driving social change through data science. Pursuing a Master’s in Information with a focus on UX experience, she combines skills in data analysis and UX design. With a Bachelor’s in Computer Science, she is proficient in various programming languages and design tools like Figma and Adobe XD. Her projects, such as a Voice-Based Emailing System for the Disabled, blend technical skills with user-centered design. Active in community service, she supports transgender individuals and promotes mental health awareness. In the UW DSSG program, she applies her skills to impactful projects and collaborates with interdisciplinary teams to address societal challenges.
 
@@ -57,7 +56,6 @@ Ekin is a PhD student at the University of Washington in Seattle, co-advised by 
 
 #### Bernease Herman
 
->insert photo
 
 Bernease Herman has joined the eScience Institute as a Data Scientist. Most recently, she served as a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to incorporate economic constraints and buying models into Amazon’s Inventory Planning and Control system. Prior to her tenure at Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. She holds a BS in Mathematics and Statistics from the University of Michigan.
 
