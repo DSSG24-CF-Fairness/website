@@ -61,7 +61,5 @@ Ekin is a PhD student at the University of Washington in Seattle, co-advised by 
 
 Bernease Herman has joined the eScience Institute as a Data Scientist. Most recently, she served as a Software Development Engineer at Amazon, where she collaborated with operations research scientists and statisticians to incorporate economic constraints and buying models into Amazon’s Inventory Planning and Control system. Prior to her tenure at Amazon, Bernease worked on derivatives pricing and predictive modeling at the research arm of Morgan Stanley. She holds a BS in Mathematics and Statistics from the University of Michigan.
 
-### Acknowledgements
 
-(example, still working on it)The fellows would like to thank the University of Washington eScience Institute – the technical and personal support offered by its amazing staff throughout the summer was invaluable. Special thanks to Anissa Tanweer and Mark Welden-Smith for organizing and leading the DSSG Summer Fellowship Program, to Bernease Herman for her guidance and insights that continually helped to make the project and its outputs better.  Finally, we would like to thank our project leads, Afra Mashhadi and Ekin Ugurel , whose leadership and expertise on the topic of crowdflow was crucial to our success.
 
